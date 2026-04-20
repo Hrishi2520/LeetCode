@@ -12,7 +12,7 @@ class RemoveElement {
         return ++j;
     }
 
-    public static void main(string[] args) {
+    public static void main(String[] args) {
     	int[] arr= {1,2,3,2,1,2,2};
     	System.out.println(removeElement(arr, 2));
     }
