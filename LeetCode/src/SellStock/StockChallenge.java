@@ -16,6 +16,6 @@ class StockChallenge {
 	
 	public static void main(String[] args) {
 		int[] nums = {1,2,8,4,9,5,7};
-		System.out.println("Max Profit: "+maxProfit(nums)));
+		System.out.println("Max Profit: "+maxProfit(nums));
 	}
 }
