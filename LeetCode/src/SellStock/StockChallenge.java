@@ -1,5 +1,5 @@
 class StockChallenge {
-    public int maxProfit(int[] prices) {
+    public static int maxProfit(int[] prices) {
         int maxProfit = 0;
         int currentProfit = 0;
         int buy = prices[0];
